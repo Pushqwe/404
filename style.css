@@ -1,0 +1,15 @@
+Body {
+    height: 100vh;
+}
+
+header {
+    height: 15vh;
+    font-family: "Inconsolata", monospace;
+}
+header h2 {
+    text-transform: uppercase;
+    margin-left: 4rem;
+    line-height: 5.5;
+    font-size: 20px;
+    color: #3d3d3d;
+}
